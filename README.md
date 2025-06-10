@@ -17,4 +17,5 @@ SmartBot is a friendly rule-based chatbot built with Python. It can:
 ### How to Run
 
 ``bash
+
 python smartbot.py
